@@ -5,5 +5,7 @@ public class C01 {
         System.out.println("Localden Merhaba" );
 
         System.out.println("Mehmetten branche" );
+
+        System.out.println("Selam cinim");
     }
 }
