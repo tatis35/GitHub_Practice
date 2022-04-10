@@ -7,5 +7,7 @@ public class C01 {
         System.out.println("Mehmetten branche" );
 
         System.out.println("Selam cinim");
+
+        System.out.println("Tüm dünya sevgiyi hak eder ama bazi kisiler haric");
     }
 }
